@@ -1,12 +1,10 @@
-style.css:
----------
 h1 {
     font-family:helvetica;
     font-size:100px;
     font-weight:bold;
     color:khaki;
     text-align:center;
-    background-image:url("pattern.jpg");
+    background-image:url("pattern.jpeg");
 }
 
 h2 {
