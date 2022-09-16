@@ -6,7 +6,7 @@ h1 {
     font-weight:bold;
     color:khaki;
     text-align:center;
-    background-image:url("pattern.jpg");
+    background-image:url(pattern.jpg);
 }
 
 h2 {
